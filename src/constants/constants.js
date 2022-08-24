@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+    title: 'Flujo CI AFP Confia',
+    description: "I perform Azure OCR training for image data detection of personal document images with more than 90% effectiveness, training images with different scenarios. 50% maintenance cost reduction in the platforms by creating configurable components in the Liferay CMS.",
+      image: '/images/afp.png',
+      tags: ['Javascript', 'React', 'Liferay', 'Azure'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
+    title: 'Gestiones PNC',
+    description:"Reduce paperwork by 70% of the service process. By shortening repair management processes, Upgraded flash-based systems by migrating to PHP platforms, Worked with the team to upgrade 100% of the fixed asset systems that were built on Fox. Migrating all functionality to the web",
+    image: '/images/pnc1.png',
+    tags: ['PHP', 'JQuery', 'Oracle', 'Codeigniter'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
+    title: 'Panic Button',
+    description: "Developed up to 50% of the views and use of Google maps to plot coordinates, achieving a better user experience for admins, and making it more intuitive",
+      image: '/images/pnud.png',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
+    title: 'App CEA',
+    description: "Critical equipment application. Classified 99% of the equipment in the application that needs special attention so that sugar and energy production is not affected. Creating a friendly interface that graphs according to the percentage of criticality",
+    image: '/images/cassa.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -38,9 +38,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2021, text: 'Started working in the project Flujo CI Confia', },
+  { year: 2020, text: 'Working on datum in PNC project', },
+  { year: 2019, text: 'Worked as a freelance developer', }
 ];

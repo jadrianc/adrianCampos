@@ -12,9 +12,9 @@ const Hero = (props) => (
         My personal Portfolio
       </SectionTitle>
       <SectionText>
-        the pourpose of this website is to showcase my skills and projects.
+      Frontend developer. +2 years of experience creating adaptive solutions for non-technical teams, with Liferay, JavaScript, and React, in enterprise and government environments
       </SectionText>
-      <Button onClick={{}}>Contact Me</Button>
+      <Button>Download my resume</Button>
     </LeftSection>
   </Section>
 );

@@ -17,21 +17,21 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <listParagraph>
             Experience with <br />
-            React, Redux, and React Router.
+            Javascript, React, Redux, and React Router.
           </listParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiFirebase size='3rem' />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>CMS</ListTitle>
           <listParagraph>
             Experience with <br />
-            React, Node, Databases.
+            Liferay
           </listParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
+      {/* <ListItem>
         <DiZend size='3rem' />
         <ListContainer>
           <ListTitle>Ui / UX</ListTitle>
@@ -40,7 +40,7 @@ const Technologies = () =>  (
             Figma
           </listParagraph>
         </ListContainer>
-      </ListItem>
+      </ListItem> */}
     </List>
   </Section>
 );
