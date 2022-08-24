@@ -11,9 +11,17 @@ const data = [
 ];
 
 const Acomplishments = () => (
-  <div>
-    Acomplishments
-  </div>
+  <Section>
+    <SectionTitle>Personal Ac</SectionTitle>
+    <Boxes>
+      {data.map((item, index) => (
+        <Box key={index}>
+          <BoxNum>{item.number}</BoxNum>
+          <BoxText>{item.text}</BoxText>
+        </Box>
+      ))}
+    </Boxes>
+  </Section>
 );
 
 export default Acomplishments;
